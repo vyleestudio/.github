@@ -1,2 +1,3 @@
 A community committed to bringing together different community moderators, owners, designers and members from all platforms across the board into one place to share our biggest passion: Building communities. We host interactive Stage-Podcasts on Community Management, and offer several great opportunities for experienced, as well as new Discord users, to share ideas, exchange advice, receive feedback, collaborate with each other, and much more.
+
 ![Community Architects](https://cdn.discordapp.com/attachments/1005898724591009913/1006929144782790666/xd.png)
