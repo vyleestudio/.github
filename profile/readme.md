@@ -1,6 +1,7 @@
 
-# Community Architects
+# Vylee Studio
 
-Unite with fellow community leaders to share our biggest passion: Building communities on Discord.
+Managing creators, communities, and applications.
 
-We offer several great opportunities for Discord users, both experienced and new, to share ideas, exchange advice, receive feedback, collaborate, and create impactful communities.
+https://discord.gg/bawwub
+https://discord.gg/communityarchitects
